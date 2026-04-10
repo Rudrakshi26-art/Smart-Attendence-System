@@ -50,7 +50,7 @@ Operating System: Windows 10/11, macOS, or Linux
 
 **Git**
 Step 1: Clone the Repository
-git clone https://github.com/your-username/gesture-face-recognition.git
+git clone [https://github.com/Rudrakshi26-art/Smart-Attendence-System.git]
 cd gesture-face-recognition
 
 Step 2: Create a Virtual Environment
