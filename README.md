@@ -93,17 +93,27 @@ python attendance.py
 
 **7. Project Structure**
 gesture-face-recognition/
-│
+
 ├── dataset/                 # Stored face images
+
 ├── encodings/               # Serialized facial embeddings
+
 ├── gestures/                # Gesture data
+
 ├── attendance/              # Attendance logs
+
 ├── models/                  # Trained models
+
 ├── register_user.py         # User registration
+
 ├── train_model.py           # Model training
+
 ├── main.py                  # Authentication system
+
 ├── attendance.py            # Attendance management
+
 ├── requirements.txt         # Project dependencies
+
 └── README.md                # Project documentation
 
 **8. Test Cases**
